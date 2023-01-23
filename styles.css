@@ -1,0 +1,7 @@
+#JS_documentaion {position: fixed}
+#navbar {position: fixed; left: 0; width: 200px; z-index: 3; margin: 0; padding: 0; height: 100%; }
+main {margin-left: 205px; }
+.nav-link {text-decoration: none; color: black }
+.divider {border: 1px solid black}
+header {font-size: 25}
+@media (max-width: 800px) {#navbar {width: 200px}}
